@@ -1,5 +1,10 @@
 # Lab2StringOperations
 
+## Introduction
+
+In this lab you will apply methods from the String class to manipulate String type variables.  Additionally, you will print an interesting image to the console.  
+Both of the these challenges should be completed in a single driver class. 
+
 ## Code Challenge 1
 
 - [ ] Your task is to write a word scrambler program.  Your scrambled word program should extract the first half of a word and the last half a word.  The scrambled word should have the last half printed first, followed by the first half.  Consider the following words.   
@@ -16,7 +21,7 @@ After your program is run, they should look as follows when printed to the conso
 
 ### Code Challenge 2
 
-- [ ] Below are pictures of ASCII art.  
+- [ ] Below are pictures of ASCII art.  Select one you would like to create. 
 
 [https://hpluska.github.io/APCompSciA/labs/StringOperations/ASCIIArt1.png](https://hpluska.github.io/APCompSciA/labs/StringOperations/ASCIIArt1.png)
 [https://hpluska.github.io/APCompSciA/labs/StringOperations/ASCIIArt2.png](https://hpluska.github.io/APCompSciA/labs/StringOperations/ASCIIArt2.png)
@@ -24,8 +29,7 @@ After your program is run, they should look as follows when printed to the conso
 [https://hpluska.github.io/APCompSciA/labs/StringOperations/ASCIIArt4.png](https://hpluska.github.io/APCompSciA/labs/StringOperations/ASCIIArt4.png)
 [https://hpluska.github.io/APCompSciA/labs/StringOperations/ASCIIArt5.png](https://hpluska.github.io/APCompSciA/labs/StringOperations/ASCIIArt5.png)
 
-
-- [ ] The text linked here [SampleDriverClass](SampleDriverClass.java), is the text required of a driver class.  Format the text using the escape techniques in this lesson, to get it to print EXACTLY as shown IN THE CONSOLE.  Feel free to change the message in the quotes.
+- [ ] Write code that prints the ASCII art exactly as shown. Doing so will require you to escape many of the characters in the picture.  For an extra challenge, try to get the ASCII art to print exactly as shown using a single print statement. 
 
 - [ ] At the top of the file, before your class declaration use comments to indicate the following 
 on separate lines
@@ -34,8 +38,8 @@ on separate lines
 	* Course
 	* Date
 
-- [ ] Inside the main method of your program use block quotes to write a comments which indicate challenge 1 and challenge 2, along with a description about what these challenges accomplish. 
+- [ ] Inside the main method of your program use block quotes to write a comments which indicate challenge 1 and challenge 2, along with a description about what eah of these challenges accomplish. 
 
-- [ ] Once you have completed the above be sure to push your changes to your AP Computer Science A Repo to GitHub
+- [ ] Once you have completed the above be sure to push your changes to GitHub
 
 
