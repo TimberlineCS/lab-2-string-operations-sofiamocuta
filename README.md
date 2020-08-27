@@ -3,6 +3,7 @@
 ## Introduction
 
 In this lab you will apply methods from the String class to manipulate String type variables.  Additionally, you will print an interesting image to the console.  
+
 Both of the these challenges should be completed in a single driver class. 
 
 ## Code Challenge 1
